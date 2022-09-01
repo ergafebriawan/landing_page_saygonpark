@@ -28,7 +28,7 @@
             </div>
         </div>
         <hr class="mt-5">
-        <p class="text-center my-3 fs-6 text-light">Copyright <?php echo date('Y'); ?> Saygonpark. All Rights Reserved. Owned by PT. Duta Bersaudara</p>
+        <p class="text-center my-3 fs-6 text-light">Copyright <?php echo date('Y'); ?> Saygonpark. All Rights Reserved. Owned by PT. Duta Putri Bersaudara</p>
     </div>
 </div>
 <script src="asset/js/bootstrap.bundle.js"></script>

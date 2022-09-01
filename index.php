@@ -87,8 +87,9 @@ include "header.php";
                                 <img src="http://waterpark.saygon-park.com/wp-content/uploads/2022/08/301445768_845934326323676_1803295471647362134_n.jpg" alt="" class="rounded " width="300" height="500" style="object-fit: cover;">
                                 <div class="card-img-overlay bg-dark bg-opacity-50 pt-5">
                                     <h5 class="card-title fw-semibold text-center mt-5">Saygon Waterpark</h5>
-                                    <p class="card-text text-center fs-6 fw-semibold mt-3">Jam Operational <br>08.00 - 17.00 WIB</p>
-                                    <p class="card-text text-center fs-6 fw-semibold">Tiket masuk <br>Weekday: Rp 30.000 <br>Weekend: Rp 35.000</p>
+                                    <p class="card-text text-center fs-6 fw-semibold mt-3">Jam Operational <br>09.00 - 17.00 WIB</p>
+                                    <p class="card-text text-center fs-6 fw-semibold">Tiket masuk <br>Weekday: Rp 35.000 <br>Weekend: Rp 40.000</p>
+                                    <p class="card-text text-center fs-6 fw-semibold">Tutup setiap hari senin</p>
                                 </div>
                             </div>
                         </div>
@@ -103,6 +104,7 @@ include "header.php";
                                     <h5 class="card-title fw-semibold text-center mt-5">Wisata Kebun Kurma</h5>
                                     <p class="card-text text-center fs-6 fw-semibold mt-3">Jam Operational <br>08.00 - 16.00 WIB</p>
                                     <p class="card-text text-center fs-6 fw-semibold">Tiket masuk <br>Weekday: Rp 15.000 <br>Weekend: Rp 20.000</p>
+                                    <p class="card-text text-center fs-6 fw-semibold">Tutup setiap hari senin</p>
                                 </div>
                             </div>
                         </div>
@@ -115,7 +117,7 @@ include "header.php";
                                 <img src="http://hotelcottage.saygon-park.com/wp-content/uploads/2022/08/290560397_572650314493989_4224698597864134271_n.jpg" alt="" class="rounded " width="300" height="500" style="object-fit: cover;">
                                 <div class="card-img-overlay bg-dark bg-opacity-50 pt-5">
                                     <h5 class="card-title fw-semibold text-center mt-5">Saygon Waterpark</h5>
-                                    <p class="card-text text-center fs-6 fw-semibold mt-3">Harga Mulai dari <br>Rp 300.000</p>
+                                    <p class="card-text text-center fs-6 fw-semibold mt-3">Harga Mulai dari <br>Rp 250.000</p>
                                 </div>
                             </div>
                         </div>
