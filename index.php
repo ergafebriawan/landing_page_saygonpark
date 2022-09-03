@@ -13,7 +13,7 @@ include "header.php";
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active" style="background-image: linear-gradient(to bottom, rgba(50,50,50,0), rgba(50,50,50,0.6));">
-                    <img src="http://waterpark.saygon-park.com/wp-content/uploads/2022/08/swp-web-3-e1661834888376.jpg" class="d-block w-100 h-80" alt="...">
+                    <img src="http://waterpark.saygon-park.com/wp-content/uploads/2022/09/9-e1662168148755.jpg" class="d-block w-100 h-80" alt="...">
                     <div class="carousel-caption mb-4 d-none d-md-block">
                         <h5 class="fw-semibold">Saygon Waterpark</h5>
                         <p>Rasakan serunya bermain air.</p>
@@ -21,7 +21,7 @@ include "header.php";
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="http://kebunkurma.saygon-park.com/wp-content/uploads/2022/08/wkk-web-e1661834831311.jpg" class="d-block w-100" alt="...">
+                    <img src="http://kebunkurma.saygon-park.com/wp-content/uploads/2022/09/IMG_8240-scaled-e1662168261897.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption mb-4 pb-2 d-none d-md-block">
                         <h5 class="fw-semibold">Wisata Kebun Kurma</h5>
                         <p>Menikmati Kebun kurma dengan ciri khas timur tengah.</p>
@@ -29,7 +29,7 @@ include "header.php";
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="http://kebunkurma.saygon-park.com/wp-content/uploads/2022/08/wkk-web-e1661834831311.jpg" class="d-block w-100" alt="...">
+                    <img src="http://hotelcottage.saygon-park.com/wp-content/uploads/2022/09/DSC_0065-scaled-e1662168379894.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption mb-4 d-none d-md-block">
                         <h5 class="fw-semibold">Saygon Hotel Cottage</h5>
                         <p>Menginap dengan suasana modern bergaya tradisional.</p>
@@ -133,13 +133,10 @@ include "header.php";
             <div id="carouselExampleInterval" class="carousel slide mx-5" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="10000">
-                        <img src="http://hotelcottage.saygon-park.com/wp-content/uploads/2022/08/web-simulasi-pesawat-scaled.jpg" class="d-block w-100 rounded-3" alt="...">
+                        <img src="http://waterpark.saygon-park.com/wp-content/uploads/2022/09/web-swp-scaled.jpg" class="d-block w-100 rounded-3" alt="...">
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
-                        <img src="http://hotelcottage.saygon-park.com/wp-content/uploads/2022/08/web-simulasi-pesawat-scaled.jpg" class="d-block w-100 rounded-3" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="http://hotelcottage.saygon-park.com/wp-content/uploads/2022/08/web-simulasi-pesawat-scaled.jpg" class="d-block w-100 rounded-3" alt="...">
+                        <img src="http://kebunkurma.saygon-park.com/wp-content/uploads/2022/09/wkk-web-scaled.jpg" class="d-block w-100 rounded-3" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">

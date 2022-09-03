@@ -5,25 +5,25 @@
             <div class="mx-2">
                 <ul class="list-group list-group-flush bg-dark">
                     <li class="fw-semibold fs-6 text-warning list-group-item bg-dark"><label>Portal</label> </li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small> Saygon Waterpark</small></li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small>Wisata Kebun Kurma</small></li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small>Saygon Hotel Cottage</small></li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small>Convention Hall HMR</small></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="https://waterpark.saygon-park.com/" class="text-light" style="text-decoration:none;"><small> Saygon Waterpark</small></a></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="https://kebunkurma.saygon-park.com/" class="text-light" style="text-decoration:none;"><small>Wisata Kebun Kurma</small></a></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="https://hotelcottage.saygon-park.com/" class="text-light" style="text-decoration:none;"><small>Saygon Hotel Cottage</small></a></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="#" class="text-light" style="text-decoration:none;"><small>Convention Hall HMR</small></a></li>
                 </ul>
             </div>
             <div class="mx-2">
                 <ul class="list-group list-group-flush bg-dark">
                     <li class="fw-semibold fs-6 text-warning list-group-item bg-dark"><label>Promo</label> </li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small>Hot Promo</small></li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small>Event</small></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="#" class="text-light" style="text-decoration:none;"><small>Hot Promo</small></a></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="#" class="text-light" style="text-decoration:none;"><small>Event</small></a></li>
                 </ul>
             </div>
             <div class="mx-2">
                 <ul class="list-group list-group-flush bg-dark">
                     <li class="fw-semibold fs-6 text-warning list-group-item bg-dark"><label>Pusat Bantuan</label> </li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small>Kontak</small></li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small>Marketing</small></li>
-                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><small>Reservasi</small></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="https://wa.me/6281555412888" class="text-light" style="text-decoration:none;"><small>Kontak</small></a></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="https://wa.me/6281515842954" class="text-light" style="text-decoration:none;"><small>Marketing</small></a></li>
+                    <li class="fw-light fs-6 list-group-item bg-dark text-light"><a href="https://linktr.ee/saygonpark" class="text-light" style="text-decoration:none;"><small>Reservasi</small></a></li>
                 </ul>
             </div>
         </div>
